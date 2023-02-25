@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Game.unity
     guid: e41a0475161aeab4e891216702e12203
   - enabled: 1
+    path: Assets/Scenes/ChallengerScreenSecondFight.unity
+    guid: aeb3773220ce77149aed3946eba178b7
+  - enabled: 1
+    path: Assets/Scenes/Game2.unity
+    guid: 85880407be7241e4687c2c18d883a8b8
+  - enabled: 1
     path: Assets/Scenes/Settings.unity
     guid: fe8d1a5bcce1ec54aaeb92ae23c7bb53
   - enabled: 1
@@ -23,4 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Training.unity
     guid: b9701e0d057967c48a6f0955a0f8f5c9
+  - enabled: 1
+    path: Assets/Scenes/Congrats.unity
+    guid: e2721222e2bc7ae4497009afc56556fc
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 728dc132b927b194a92f2e944eb58acb
   m_configObjects: {}

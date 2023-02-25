@@ -36,7 +36,7 @@ public class ChatBox : MonoBehaviour
             chatbox.text += "</color></b>: ";
             chatbox.text += text.text;
             chatbox.text += "<br>";
-            yield return new WaitForSeconds(UnityEngine.Random.Range(0.2f,1.5f));
+            yield return new WaitForSeconds(UnityEngine.Random.Range(0.1f,1.5f));
         }
         StartCoroutine(Chatting());
     }
